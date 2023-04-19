@@ -37,6 +37,8 @@
     "openzeppelin-solidity": "^2.5.0",
     "solidity-sha3": "^0.4.1",
     "truffle-hdwallet-provider": "^1.0.17",
-    "web3": "^1.2.6"
+    "web3": "^1.2.6",
+    "concat-stream": "^2.0.0",
+    "ndjson": "^2.0.0"
   }
 }
